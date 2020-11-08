@@ -1,4 +1,4 @@
 {
   "schemaVersion": 2,
-   "imageName" : "https://raw.githubusercontent.com/krillle/osrm-backend/"
+   "imageName" : "https://raw.githubusercontent.com/krillle/osrm-backend/docker"
 }
