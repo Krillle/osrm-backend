@@ -1,0 +1,4 @@
+{
+  "schemaVersion": 2,
+   "imageName" : "https://raw.githubusercontent.com/Krillle/osrm-backend/master/docker/Dockerfile:one"
+}
